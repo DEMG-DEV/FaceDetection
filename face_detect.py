@@ -3,8 +3,6 @@ import sys
 
 # Get user supplied values
 imagePath = sys.argv[1]
-# cascPath = sys.argv[2]
-#imagePath = "images/howresearch_3.jpg"
 cascPath = "haarcascade_frontalface_default.xml"
 
 # Create the haar cascade
