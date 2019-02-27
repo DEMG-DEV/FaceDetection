@@ -19,5 +19,5 @@ this following in the way to run the code
     ```
 - to run in video
     ```
-    python face_detect.py images/howresearch_4.jpg
+    python face_detect-webcam.py
     ```
