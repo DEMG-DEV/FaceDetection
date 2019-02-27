@@ -1,6 +1,27 @@
 # FacialRecognition
 Programa en python que detecta caras en cualquier foto, video o en tiempo real.
 
+## Install
+To put this code to work, download the image database and set in the root folder like this:
+```
+├── muct
+│   ├── a
+│   │   ├── i000qa-fn.jpg
+│   │   ├── i000ra-fn.jpg
+│   ├── b
+│   │   ├── i000qb-fn.jpg
+│   │   ├── i000rb-fn.jpg
+│   ├── c
+│   │   ├── i000qc-fn.jpg
+│   │   ├── i000rc-fn.jpg
+│   ├── d
+│   │   ├── i000qd-fn.jpg
+│   │   ├── i000rd-fn.jpg
+│   └── e
+│   │   ├── i000qe-fn.jpg
+│   │   ├── i000re-fn.jpg
+```
+
 ## The MUCT Face Database
 
 The MUCT database consists of 3755 faces with 76 manual landmarks.
