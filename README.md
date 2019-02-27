@@ -17,11 +17,11 @@ this following in the way to run the code
 - To run in an image
 
     ```
-    python face_detect.py images/howresearch_4.jpg
+    python face_detect.py "Data/images/howresearch_1.jpg"
     ```
 - to run in video
     ```
-    python face_detect.py images/howresearch_4.jpg
+    python face_detect-webcam.py
     ```
 
 ## Install
